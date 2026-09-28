@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm > 𝙆 𝙃 𝙊 𝙉 𝙇 𝙊 𝙄 _ <img src="https://unpkg.com/pixelarticons@1.8.1/svg/human-handsup.svg" width="32" height="32" alt="wave" style="vertical-align: bottom;"></h1>
+<h1 align="center">Hi there, I'm > 𝙆 𝙃 𝙊 𝙉 𝙇 𝙊 𝙄 _ <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PROGM001.PNG" width="32" height="32" alt="wave" align="absmiddle"></h1>
 <h3 align="center">Full-Stack MERN Developer | Building Scalable Web Applications</h3>
 
 <p align="center">
@@ -7,14 +7,14 @@
 
 ---
 
-### <img src="https://unpkg.com/pixelarticons@1.8.1/svg/speed-fast.svg" width="24" height="24" alt="focus" style="vertical-align: bottom;"> Current Focus
-- <img src="https://unpkg.com/pixelarticons@1.8.1/svg/search.svg" width="20" height="20" alt="shipping" style="vertical-align: middle;"> **Currently shipping:** High-performance, scalable web applications and RESTful APIs using the MERN ecosystem.
-- <img src="https://unpkg.com/pixelarticons@1.8.1/svg/zap.svg" width="20" height="20" alt="optimizing" style="vertical-align: middle;"> **Optimizing:** Database query efficiency, backend response times, and frontend rendering for seamless user experiences.
-- <img src="https://unpkg.com/pixelarticons@1.8.1/svg/book-open.svg" width="20" height="20" alt="researching" style="vertical-align: middle;"> **Researching:** Advanced authentication flows, real-time data synchronization with WebSockets, and modern CI/CD practices.
+### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/WINFI001.PNG" width="32" height="32" alt="focus" align="absmiddle"> ‎ Current Focus
+- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PACKA001.PNG" width="24" height="24" alt="shipping" align="absmiddle"> ‎ **Currently shipping:** High-performance, scalable web applications and RESTful APIs using the MERN ecosystem.
+- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/WINSE001.PNG" width="24" height="24" alt="optimizing" align="absmiddle"> ‎ **Optimizing:** Database query efficiency, backend response times, and frontend rendering for seamless user experiences.
+- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/WINHE001.PNG" width="24" height="24" alt="researching" align="absmiddle"> ‎ **Researching:** Advanced authentication flows, real-time data synchronization with WebSockets, and modern CI/CD practices.
 
 ---
 
-### <img src="https://unpkg.com/pixelarticons@1.8.1/svg/device-laptop.svg" width="24" height="24" alt="tech stack" style="vertical-align: bottom;"> Core Tech Stack
+### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PROGM044.PNG" width="32" height="32" alt="tech stack" align="absmiddle"> ‎ Core Tech Stack
 
 **Frontend:**
 <p>
@@ -45,21 +45,21 @@
 
 ---
 
-### <img src="https://unpkg.com/pixelarticons@1.8.1/svg/chart-bar.svg" width="24" height="24" alt="stats" style="vertical-align: bottom;"> GitHub Stats
+### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/CALC001.PNG" width="32" height="32" alt="stats" align="absmiddle"> ‎ GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=khonloi&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=khonloi&show_icons=true&title_color=b26b93&icon_color=b26b93&text_color=9f9f9f&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khonloi&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khonloi&stroke=00000000&background=0D1117&ring=b26b93&fire=b26b93&currStreakNum=9f9f9f&currStreakLabel=b26b93&sideNums=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khonloi&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khonloi&layout=compact&title_color=b26b93&icon_color=b26b93&text_color=9f9f9f&bg_color=0D1117&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### <img src="https://unpkg.com/pixelarticons@1.8.1/svg/mail.svg" width="24" height="24" alt="connect" style="vertical-align: bottom;"> Reach Out & Connect
+### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/MSMAI001.PNG" width="32" height="32" alt="connect" align="absmiddle"> ‎ Reach Out & Connect
 
 <p align="center">
   <a href="https://khoinm.vercel.app" target="_blank">
