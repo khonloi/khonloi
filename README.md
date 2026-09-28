@@ -1,22 +1,22 @@
-<h1 align="center">Hi there, I'm > 𝙆 𝙃 𝙊 𝙉 𝙇 𝙊 𝙄 _ <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PROGM001.PNG" width="32" height="32" alt="wave" align="absmiddle"></h1>
+<h1 align="center">Hi there, I'm > 𝙆 𝙃 𝙊 𝙉 𝙇 𝙊 𝙄 _</h1>
 <h3 align="center">Full-Stack MERN Developer | Building Scalable Web Applications</h3>
 
-<p align="center">
-  A passionate software engineer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I thrive on designing robust backend architectures, crafting intuitive, responsive frontend experiences, and bridging the gap between design and engineering. With a strong foundation in modern web development practices, I am dedicated to building products that are not only highly functional but also scalable and maintainable. I believe in writing clean, self-documenting code and continuously expanding my technical horizons.
+<p align="justify">
+  Full-stack engineer dedicated to building thoughtful, high-performance web applications across the <b>MERN</b> landscape (MongoDB, Express.js, React, Node.js). I thrive at the intersection of robust backend systems and fluid, responsive interfaces, bridging intentional design with clean architectural execution. Whether structuring high-throughput databases, crafting intuitive REST APIs, or refining crisp client-side interactions, I build software that feels effortless to use, straightforward to maintain, and ready to scale.
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/WINFI001.PNG" width="32" height="32" alt="focus" align="absmiddle"> ‎ Current Focus
-- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PACKA001.PNG" width="24" height="24" alt="shipping" align="absmiddle"> ‎ **Currently shipping:** High-performance, scalable web applications and RESTful APIs using the MERN ecosystem.
-- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/WINSE001.PNG" width="24" height="24" alt="optimizing" align="absmiddle"> ‎ **Optimizing:** Database query efficiency, backend response times, and frontend rendering for seamless user experiences.
-- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/WINHE001.PNG" width="24" height="24" alt="researching" align="absmiddle"> ‎ **Researching:** Advanced authentication flows, real-time data synchronization with WebSockets, and modern CI/CD practices.
-- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/TERMI001.PNG" width="24" height="24" alt="coding" align="absmiddle"> ‎ **Exploring:** Microservices architectures, advanced containerization strategies, and cloud-native deployments for high-availability systems.
-- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/WRITE001.PNG" width="24" height="24" alt="writing" align="absmiddle"> ‎ **Writing & Contributing:** Documenting best practices, refining system architectures, and maintaining clean code standards across collaborative projects.
+### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/CLIPB001.PNG" width="32" height="32" alt="focus" align="absmiddle"> ‎ Current Focus
+- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PACKA001.PNG" width="24" height="24" alt="shipping" align="absmiddle"> ‎ **Shipping:** Full-stack web applications and robust RESTful APIs built on the MERN ecosystem, engineered for responsiveness, reliability, and real-world scale.
+- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/CONTR001.PNG" width="24" height="24" alt="optimizing" align="absmiddle"> ‎ **Optimizing:** Shaving server response times, fine-tuning database indexing & aggregation pipelines, and keeping client-side rendering snappy.
+- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PROGM017.PNG" width="24" height="24" alt="researching" align="absmiddle"> ‎ **Deep-Diving:** Resilient authentication architectures, event-driven sync with WebSockets & Redis, and frictionless CI/CD automation.
+- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PROGM032.PNG" width="24" height="24" alt="coding" align="absmiddle"> ‎ **Exploring:** Microservices patterns, containerized deployments with Docker, and cloud-native workflows for high-availability systems.
+- <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/NOTEP001.PNG" width="24" height="24" alt="writing" align="absmiddle"> ‎ **Sharing the Craft:** Documenting architectural patterns, maintaining clean code standards, and collaborating on open, maintainable codebases.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PROGM044.PNG" width="32" height="32" alt="tech stack" align="absmiddle"> ‎ Core Tech Stack
+### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PROGM022.PNG" width="32" height="32" alt="tech stack" align="absmiddle"> ‎ Tech Stack
 
 **Frontend:**
 <p>
@@ -53,12 +53,12 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VVS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/CALC001.PNG" width="32" height="32" alt="stats" align="absmiddle"> ‎ GitHub Stats
+### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/PROGM012.PNG" width="32" height="32" alt="stats" align="absmiddle"> ‎ GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=khonloi&show_icons=true&title_color=b26b93&icon_color=b26b93&text_color=9f9f9f&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
@@ -72,10 +72,10 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/MSMAI001.PNG" width="32" height="32" alt="connect" align="absmiddle"> ‎ Reach Out & Connect
+### <img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/FAXMG001.PNG" width="32" height="32" alt="connect" align="absmiddle"> ‎ Reach Out
 
 <p align="center">
-  I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+  Have an ambitious idea in mind, want to talk system architecture, or exploring a new opportunity? My inbox is always open, let's build something exceptional together!
 </p>
 <p align="center">
   <a href="https://khoinm.vercel.app" target="_blank">
